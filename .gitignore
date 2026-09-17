@@ -1,0 +1,5 @@
+# 项目排除路径
+/day1-oop/target/
+/maven-project1/target/
+/out/
+/stone-mase/target/
